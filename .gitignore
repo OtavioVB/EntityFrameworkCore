@@ -6,3 +6,5 @@ EFCore.Infra/bin
 
 EFCore.Domain/obj
 EFCore.Domain/bin
+
+.vs
