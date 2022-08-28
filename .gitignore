@@ -1,0 +1,8 @@
+EFCore.APP/obj
+EFCore.APP/bin
+
+EFCore.Infra/obj
+EFCore.Infra/bin
+
+EFCore.Domain/obj
+EFCore.Domain/bin
